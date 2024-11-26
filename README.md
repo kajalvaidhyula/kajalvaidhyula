@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kajalvaidhyula
+- 👋 Hi, I’m  Kajal Vaidhyula
 - 👀 I’m interested in Python, AI, data, machine learning, data analysis, and building LLM (Large Language Models).
 - 🌱 I’m currently learning how to work with AI models, data science, and cloud technologies while enhancing my skills in Azure and Python.
 - 💞️ I’m looking to collaborate with developers, engineers, and like-minded people to create unique and impactful projects.
